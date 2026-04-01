@@ -44,7 +44,7 @@ My work focuses on transforming raw data into actionable insights through dashbo
 
 ## 📌 Featured Work
 
-* **Budget vs Actual Dashboard (Power BI)**
+* **Monthly Budget vs Actual Dashboard (Power BI)**
 * **Financial Planning & Forecasting Model (Excel / Power BI)**
 * **YoY Comparison Dashboard (Power BI)**
 * **RPL Sales Dashboard (Power BI)**
