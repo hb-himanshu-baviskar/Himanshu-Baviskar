@@ -54,6 +54,7 @@ My work focuses on transforming raw data into actionable insights through dashbo
 ## 🚀 What I'm Currently Working On
 
 * Strengthening SQL & Python for advanced analytics
+* Building end-to-end analytical Tool
 * Building end-to-end portfolio projects
 * Improving dashboard storytelling and user experience
 
