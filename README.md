@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu Baviskar 👋
+# Hi, I'm Himanshu Mukunda Baviskar 👋
 
 ### 📊 Business Analyst | Data Analytics | Power BI | SQL | Python | Process Optimization
 
