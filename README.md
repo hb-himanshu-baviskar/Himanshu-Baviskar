@@ -1,2 +1,2 @@
 # Himanshu-Baviskar
-Business Analyst who builds dashboards, automates processes, and improves decision-making
+Business Analyst who builds dashboards, Automates Processes and help business in decision making
