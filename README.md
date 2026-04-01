@@ -49,8 +49,6 @@ My work focuses on transforming raw data into actionable insights through dashbo
 * **YoY Comparison Dashboard (Power BI)**
 * **RPL Sales Dashboard (Power BI)**
 * **Strategic Business Reports & KPI Tracking Systems**
-* **Process Automation Systems (Excel)**
-* **SQL & Python Data Analysis Projects (In Progress)**
 ---
 
 ## 🚀 What I'm Currently Working On
