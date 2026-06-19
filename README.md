@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu Mukunda Baviskar 👋
 
-### 📊 Business Analyst | Data Analytics | Power BI | SQL | Python | Process Optimization
+### 📊 Business Analyst | Data Analytics | Power BI | Tableau | SQL | Python | Process Optimization
 
 I build data-driven solutions that help businesses track performance, improve efficiency, and make better decisions.
 My work focuses on transforming raw data into actionable insights through dashboards, automation, and structured reporting systems.
